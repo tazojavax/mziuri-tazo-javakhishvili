@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome to IT-recipes</title>
+    <link rel="stylesheet" href="main-paig.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Peralta&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<div class="layout">
+<header>
+
+    <h1 class="nav">welcome to IT-recipes</h1>
+<p class="con1">Delicious Recipes for Everyone</p>
+
+
+<div class="con"><a href="index.html"> Home </a>| <a href="about-page.html"> About</a> |<a href="contact-page.html"> Contact</a></div>
+</header>
+    <main class="content">
+        <h1>Food's</h1>
+        <div class="article-conteiner">
+
+
+         <article class="article">
+            <img src="https://cdn.loveandlemons.com/wp-content/uploads/2024/12/caesar-salad.jpg" alt="rac ginda gaaketre" />
+            <div class="content-wrapper">
+              <h2>Caesar Salad</h2>
+              <p>
+                  umm so tasty salad i like this salad tazo also like this salad. click "read more" for ingredients.
+              </p>
+              <a href="recepies.html">Read More</a>
+            </div>
+          </article>
+          <article class="article">
+            <img src="https://images.immediate.co.uk/production/volatile/sites/30/2025/06/Air-fryer-shawarma-spiced-halloumi-wraps-46ccc36.jpg" alt="doner kebab" />
+            <div class="content-wrapper">
+              <h2>Sawarma</h2>
+              <p>
+                this is tasty shawarma i like it you should too. click "read more" for ingredients
+              </p>
+              <a href="recepies.html">Read More</a>
+            </div>
+          </article>
+          <article class="article">
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/027/807/854/small/delicious-pizza-composed-with-mozzarella-cheese-american-cheese-meat-red-sauce-with-three-difference-cheese-as-toppings-photo.jpg" alt="pizza img" />
+            <div class="content-wrapper">
+              <h2>Pizza</h2>
+              <p>
+                this pizza is so tasty its good. click "read more" for ingredients
+              </p>
+              <a href="recepies.html">Read More</a>
+            </div>
+          </article>
+        </div> </main>
+
+</div>
+
+</body>
+</html>
